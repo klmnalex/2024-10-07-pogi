@@ -1,0 +1,36 @@
+#content {
+    width: 600px;
+    margin: auto;
+    font-family: "Afacad Flux", sans-serif;
+    font-weight: 500;
+    border: 5px solid rgb(96, 96, 96);
+    padding: 20px;
+    color: white;
+    background-color: rgb(77, 77, 77);
+    border-radius: 5px;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    text-align: justify;
+    background-color: black;
+}
+
+h1 {
+    font-family: "Afacad Flux", sans-serif;
+    margin: auto;
+    padding: 10px;
+    text-align: center; 
+    text-decoration: underline;
+    color: white;
+    transition-duration: 200ms;
+}
+
+h1:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 200ms;
+}

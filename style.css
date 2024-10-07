@@ -16,7 +16,7 @@ img {
 
 body {
     text-align: justify;
-    background-color: black;
+    background-color: rgb(56, 55, 55);
 }
 
 h1 {
@@ -33,4 +33,8 @@ h1:hover {
     color: black;
     background-color: white;
     transition-duration: 200ms;
+}
+
+a {
+    color: azure;
 }
